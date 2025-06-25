@@ -1,1 +1,1 @@
-I put other index.html here
+I put other here
